@@ -10,6 +10,7 @@
 
 ## Demo 📸
 https://github.com/fatiabdulahi/TRIBUTE-F-REPO/blob/feature/tribute_demo.png
+![Alt text](tribute_demo.png)
 
 
 ## Technologies Used 🛠️
